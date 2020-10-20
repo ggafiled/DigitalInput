@@ -1,0 +1,11 @@
+{
+    "name": "DigitalInput",
+    "keywords": "arduino, input, digitalinput",
+    "description": "This Arduino library is improving the usage of a digital input for your devices. It shows how to use an digital input pin with a some coding.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ggafiled/DigitalInput"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
